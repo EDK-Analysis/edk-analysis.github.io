@@ -16,5 +16,5 @@ You can find my full CV [here](https://drive.google.com/file/d/12IXUx4UOucvaCspK
 
 ## Recent News
 
-* **2026** — I was awarded an **NSF ACCESS Explore Allocation** to support my computational work.
-* **2026** — Our paper *Time-Resolved X-ray Absorption Spectroscopy and Diffraction toward Solar Energy Conversion* (with Cunming Liu and Xiaoyi Zhang) was accepted in *Photon Science*.
+* **2026:** I was awarded an **NSF ACCESS Explore Allocation** to support my computational work.
+* **2026:** Our paper *Time-Resolved X-ray Absorption Spectroscopy and Diffraction toward Solar Energy Conversion* (with Cunming Liu and Xiaoyi Zhang) was accepted in *Photon Science*.
