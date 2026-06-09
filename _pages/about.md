@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Eli D. Kinigstein"
-excerpt: "About me"
+excerpt: "Brief Bio"
 author_profile: true
 redirect_from:
   - /about/
