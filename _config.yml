@@ -13,7 +13,7 @@ title: "Eli D. Kinigstein"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Eli D. Kinigstein"
-description: "Personal website of Eli D. Kinigstein, Research Associate at CHESS, Cornell University."
+description: "Personal website of Eli D. Kinigstein, Research Associate at Cornell University."
 url: "https://edk-analysis.github.io"
 baseurl: ""
 repository: "edk-analysis/edk-analysis.github.io"
@@ -77,10 +77,10 @@ analytics:
 # Site Author
 author:
   name: "Eli D. Kinigstein"
-  avatar: "profile.png"
-  bio: "Research Associate at CHESS, Cornell University. Time-resolved synchrotron X-ray experiments."
+  avatar: "profile.jpg"
+  bio: "Research Associate at CHESS, Cornell University"
   location: "Ithaca, NY"
-  employer: "CHESS, Cornell University"
+  employer: "Cornell University"
   pubmed: # URL
   googlescholar: "https://scholar.google.com/citations?user=RyEnAr4AAAAJ"
   email: "edk59@cornell.edu"
